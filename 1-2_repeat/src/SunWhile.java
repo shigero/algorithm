@@ -16,7 +16,9 @@ class SunWhile {
 			sum += i;
 			i++;
 		}
-		System.out.println("1からnまでの和fは " + sum + " です。");
+		System.out.println("1からnまでの和は " + sum + " です。");
+		System.out.println("nは " + i + " です。");
+
 	}
 }
 
